@@ -64,7 +64,7 @@ Here are some of the projects I’ve worked on:
 
 Let’s collaborate, chat about design, or geek out over games!  
 
-- **Bento**: bento.me/dexterityofrag
+- **Bento**: https://bento.me/dexterityofrag
 - **LinkedIn**: https://shorturl.at/9KP6g
 - **Behance**: https://shorturl.at/Iynsf
 - **Email**: anuragprivate2002@gmail.com
